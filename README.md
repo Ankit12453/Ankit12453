@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit Kundu, a Software Developer.
 - 👀 I’m interested in technology.
-- 🌱 I’m currently learning cutting edge technologies.
+- 🌱 I’m currently learning Cloud technologies.
 - 📫 How to reach me rikikundu2017@gmail.com.
 
 <!---
